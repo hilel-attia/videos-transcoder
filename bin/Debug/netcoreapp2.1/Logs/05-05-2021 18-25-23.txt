@@ -1,0 +1,9 @@
+﻿05/05/2021 - 18:25:23 -- Starting..
+05/05/2021 - 18:25:25 -- Source folder is: C:\Users\user\Videos\Captures
+05/05/2021 - 18:25:31 -- Distination folder is: C:\Users\user\Desktop\music\t
+05/05/2021 - 18:25:31 -- Folders created successfully.
+05/05/2021 - 18:25:38 -- Starting with C:\Users\user\Videos\Captures\desktop.ini
+05/05/2021 - 18:25:38 -- File is not listed as Media File.
+05/05/2021 - 18:25:38 -- Starting with C:\Users\user\Videos\Captures\Telnet Formation - Google Chrome 2020-07-25 02-33-32.mp4
+05/05/2021 - 18:25:38 -- New folder path for Telnet Formation - Google Chrome 2020-07-25 02-33-32.mp4 is: C:\Users\user\Desktop\music\t
+05/05/2021 - 18:25:38 -- Cannot locate FFProbe: C:\Users\user\Desktop\azure\videos-transcoder\bin\Debug\netcoreapp2.1\ffprobe.exe

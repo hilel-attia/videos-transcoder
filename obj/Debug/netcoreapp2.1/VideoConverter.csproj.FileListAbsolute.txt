@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\azure\videos-transcoder\bin\Debug\netcoreapp2.1\VideoConverter.deps.json
+C:\Users\user\Desktop\azure\videos-transcoder\bin\Debug\netcoreapp2.1\VideoConverter.runtimeconfig.json
+C:\Users\user\Desktop\azure\videos-transcoder\bin\Debug\netcoreapp2.1\VideoConverter.runtimeconfig.dev.json
+C:\Users\user\Desktop\azure\videos-transcoder\bin\Debug\netcoreapp2.1\VideoConverter.dll
+C:\Users\user\Desktop\azure\videos-transcoder\bin\Debug\netcoreapp2.1\VideoConverter.pdb
+C:\Users\user\Desktop\azure\videos-transcoder\obj\Debug\netcoreapp2.1\VideoConverter.csprojAssemblyReference.cache
+C:\Users\user\Desktop\azure\videos-transcoder\obj\Debug\netcoreapp2.1\VideoConverter.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\azure\videos-transcoder\obj\Debug\netcoreapp2.1\VideoConverter.AssemblyInfo.cs
+C:\Users\user\Desktop\azure\videos-transcoder\obj\Debug\netcoreapp2.1\VideoConverter.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\azure\videos-transcoder\obj\Debug\netcoreapp2.1\VideoConverter.dll
+C:\Users\user\Desktop\azure\videos-transcoder\obj\Debug\netcoreapp2.1\VideoConverter.pdb
+C:\Users\user\Desktop\azure\videos-transcoder\obj\Debug\netcoreapp2.1\VideoConverter.genruntimeconfig.cache

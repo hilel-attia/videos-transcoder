@@ -1,0 +1,4 @@
+﻿05/05/2021 - 15:48:52 -- Starting..
+05/05/2021 - 15:49:50 -- Source folder is: C:\Users\user\Videos\Captures
+05/05/2021 - 15:49:54 -- Distination folder is: C:\Users\user\Videos\Captures
+05/05/2021 - 15:49:54 -- Folders created successfully.

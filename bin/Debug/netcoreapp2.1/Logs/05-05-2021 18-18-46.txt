@@ -1,0 +1,7 @@
+﻿05/05/2021 - 18:18:46 -- Starting..
+05/05/2021 - 18:18:57 -- Source folder is: C:\Users\user\Desktop\music
+05/05/2021 - 18:19:02 -- Distination folder is: C:\Users\user\Desktop\music\t
+05/05/2021 - 18:19:02 -- Folders created successfully.
+05/05/2021 - 18:19:34 -- Starting with C:\Users\user\Desktop\music\hayala.mp4
+05/05/2021 - 18:19:34 -- New folder path for hayala.mp4 is: C:\Users\user\Desktop\music\t
+05/05/2021 - 18:19:34 -- Cannot locate FFProbe: C:\Users\user\Desktop\azure\videos-transcoder\bin\Debug\netcoreapp2.1\ffprobe.exe

@@ -1,0 +1,7 @@
+﻿05/05/2021 - 18:25:55 -- Starting..
+05/05/2021 - 18:26:04 -- Source folder is: C:\Users\user\Desktop\music\t
+05/05/2021 - 18:26:06 -- Distination folder is: C:\Users\user\Desktop\music
+05/05/2021 - 18:26:06 -- Folders created successfully.
+05/05/2021 - 18:26:13 -- Starting with C:\Users\user\Desktop\music\t\3arbouch.mp4
+05/05/2021 - 18:26:13 -- New folder path for 3arbouch.mp4 is: C:\Users\user\Desktop\music
+05/05/2021 - 18:26:13 -- Cannot locate FFProbe: C:\Users\user\Desktop\azure\videos-transcoder\bin\Debug\netcoreapp2.1\ffprobe.exe
